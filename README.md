@@ -23,16 +23,6 @@ So, what do you think? Are you ready to install our app and revolutionize the wa
 
 [![Repository size](https://img.shields.io/github/repo-size/kivymd/kivymd.svg)](https://github.com/SuperMarius409)
 
-## About
-
-Team Name: Simplify
-
-App Name: Simplify
-
-School: Colegiul National Militar "Tudor Vladimirescu" Craiova
-
-CO: Radulescu Marius Gabriel, Revitea-Saidac Rares George
-
 ## Installation
 
 ```bash
