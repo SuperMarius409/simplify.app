@@ -4,8 +4,8 @@
         android:startColor="@color/primary_transparent"
         android:endColor="@color/primary"
         android:centerX="1"
-        android:centerY="1.5"
-        android:gradientRadius="2500"
+        android:centerY="1"
+        android:gradientRadius="3000"
         />
 
 </shape>

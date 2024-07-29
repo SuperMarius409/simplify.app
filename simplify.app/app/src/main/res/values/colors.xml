@@ -27,8 +27,8 @@
     <color name="background">#121212</color>
     <color name="accent">#212121</color>
     <color name="secondary">#2C2C2C</color>
-    <color name="primary">#3e74b3</color>
-    <color name="primary_transparent">#2c486a</color>
+    <color name="primary">#626ad9</color>
+    <color name="primary_transparent">#6257cd</color>
 
     <color name="green_light">#1ED760</color>
     <color name="green_medium">#1DB954</color>
