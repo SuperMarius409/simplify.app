@@ -27,6 +27,8 @@ So, what do you think? Are you ready to install our app and revolutionize the wa
 
 > [!Note]
 > The app has a newer version but is still on testing.
+> Here is a sneak-peek of the new visual experience.
+> [![Repository icon](https://github.com/SuperMarius409/simplify.app/blob/main/assets/full.png)](https://github.com/SuperMarius409)
 
 ```bash
 git clone https://github.com/Simplify-Nature/simplify.app.git
