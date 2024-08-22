@@ -28,9 +28,6 @@ So, what do you think? Are you ready to install our app and revolutionize the wa
 > [!Note]
 > The app has a newer version but is still on testing. 
 
-> [!Important]
-> [![Repository icon](https://github.com/SuperMarius409/simplify.app/blob/main/assets/logo.png)](https://github.com/SuperMarius409)
-
 ```bash
 git clone https://github.com/Simplify-Nature/simplify.app.git
 ```
@@ -50,8 +47,8 @@ Or access the file `releases\simplify.apk` and download the file on your phone.
 
 ## Watch Our App Demo
 
-
-
+> [!Important]
+> [![Repository icon](https://github.com/SuperMarius409/simplify.app/blob/main/assets/logo.png)](https://github.com/SuperMarius409)
 
 <p align="left">
   <a href="https://drive.google.com/drive/folders/1A7GXL60SCmtimJzcJ3N-p_kYNe0b0Z-I?usp=sharing">
