@@ -25,10 +25,14 @@ So, what do you think? Are you ready to install our app and revolutionize the wa
 
 ## Installation
 
+[!Note]
+
+The app has a newer version but is still on testing.
+
 ```bash
 git clone https://github.com/Simplify-Nature/simplify.app.git
 ```
-Or access the file `livrabile\simplify.apk` and download the file on your phone.
+Or access the file `releases\simplify.apk` and download the file on your phone.
 
 ## Documentation & Credits
 
