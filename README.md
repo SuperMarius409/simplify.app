@@ -25,9 +25,8 @@ So, what do you think? Are you ready to install our app and revolutionize the wa
 
 ## Installation
 
-[!Note]
-
-The app has a newer version but is still on testing.
+> [!Note]
+> The app has a newer version but is still on testing.
 
 ```bash
 git clone https://github.com/Simplify-Nature/simplify.app.git
